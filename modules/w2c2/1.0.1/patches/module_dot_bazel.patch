@@ -1,6 +1,7 @@
 --- MODULE.bazel
 +++ MODULE.bazel
-@@ -0,0 +1,18 @@
+@@ -0,0 +1,19 @@
++module(name = "w2c2",version="1.0.1")
 +###############################################################################
 +# Bazel now uses Bzlmod by default to manage external dependencies.
 +# Please consider migrating your external dependencies from WORKSPACE to MODULE.bazel.

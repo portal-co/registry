@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/portal-co/w2c2/archive/refs/heads/main.zip",
+    "integrity": "sha256-i0lhYDx75GUqnnAYl6XCLHRbOq0CRFQAsIAN9EULSmA=",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-FL7GoqoJeWjNm9n/vgKPpvH9iuE3HcXzkYUVbDDPqAQ="
+    }
+}
