@@ -1,0 +1,20 @@
+{
+    "build_file": null,
+    "build_targets": [
+        "@rabbitizer//:rabbitizer",
+        "@rabbitizer//:rust"
+    ],
+    "compatibility_level": "0",
+    "deps": [],
+    "module_dot_bazel": "work/rabbitizer/MODULE.bazel",
+    "name": "rabbitizer",
+    "patch_strip": 0,
+    "patches": [],
+    "presubmit_yml": null,
+    "strip_prefix": "rabbitizer-develop",
+    "test_module_build_targets": [],
+    "test_module_path": null,
+    "test_module_test_targets": [],
+    "url": "https://github.com/portal-co/rabbitizer/archive/refs/heads/develop.zip",
+    "version": "1.10.1"
+}

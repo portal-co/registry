@@ -1,9 +1,9 @@
 {
     "url": "https://github.com/portal-co/rabbitizer/archive/refs/heads/develop.zip",
-    "integrity": "sha256-DG/eknTwWOL7Ky57r3FTZxdJOsEZB/Tc7auxJqTo6ao=",
+    "integrity": "sha256-+f1KgpJI37WTiHiYpSxP0L9DlimV5wuKU8MbiyUVLrc=",
     "strip_prefix": "rabbitizer-develop",
     "patch_strip": 0,
     "patches": {
-        "module_dot_bazel.patch": "sha256-1Caaw54wVTll2ZjycnIqRMe332hfXhlCeOxJM+dG+Oc="
+        "module_dot_bazel.patch": "sha256-rqTRug6bxAhGNOehz2DJtYe1k4Ky2v6eABxTF0QnnBU="
     }
 }

@@ -5,7 +5,8 @@
         "github:portal-co/rabbitizer"
     ],
     "versions": [
-        "1.10.0"
+        "1.10.0",
+        "1.10.1"
     ],
     "yanked_versions": {}
 }
