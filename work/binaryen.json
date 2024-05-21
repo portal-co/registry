@@ -4,7 +4,13 @@
         "@binaryen//src/tools:wasm2js"
     ],
     "compatibility_level": "114",
-    "deps": [],
+    "deps": [
+        "platforms",
+        "bazel_skylib",
+        "cc_config",
+        "rules_python",
+        "rules_rust"
+    ],
     "module_dot_bazel": "work/binaryen/MODULE.bazel",
     "name": "binaryen",
     "patch_strip": 0,
