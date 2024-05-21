@@ -1,0 +1,19 @@
+{
+    "build_file": null,
+    "build_targets": [
+        "@binaryen//src/tools:wasm2js"
+    ],
+    "compatibility_level": "114",
+    "deps": [],
+    "module_dot_bazel": "work/binaryen/MODULE.bazel",
+    "name": "binaryen",
+    "patch_strip": 0,
+    "patches": [],
+    "presubmit_yml": null,
+    "strip_prefix": "binaryen-bazel-bazel",
+    "test_module_build_targets": [],
+    "test_module_path": null,
+    "test_module_test_targets": [],
+    "url": "https://github.com/portal-co/binaryen-bazel/archive/refs/heads/bazel.zip",
+    "version": "114.0.1"
+}

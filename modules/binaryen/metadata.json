@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/portal-co/binaryen-bazel",
+    "maintainers": [],
+    "repository": [
+        "github:portal-co/binaryen-bazel"
+    ],
+    "versions": [
+        "114.0.1"
+    ],
+    "yanked_versions": {}
+}
