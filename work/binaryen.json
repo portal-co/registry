@@ -21,5 +21,5 @@
     "test_module_path": null,
     "test_module_test_targets": [],
     "url": "https://github.com/portal-co/binaryen-bazel/archive/refs/heads/bazel.zip",
-    "version": "114.0.9"
+    "version": "114.0.10"
 }

@@ -1,0 +1,5 @@
+{
+    "url": "https://github.com/portal-co/binaryen-bazel/archive/refs/heads/bazel.zip",
+    "integrity": "sha256-FHeE09dfFIUTz0WyMN7qcaVVm8eeEgT8YfMIGFZKNVc=",
+    "strip_prefix": "binaryen-bazel-bazel"
+}
