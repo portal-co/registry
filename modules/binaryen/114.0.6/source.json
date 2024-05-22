@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/portal-co/binaryen-bazel/archive/refs/heads/bazel.zip",
+    "integrity": "sha256-7N2ZfaM4MsbWtd7ftKSgfLjcFNHiIbx00X7AUCE+A48=",
+    "strip_prefix": "binaryen-bazel-bazel",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-NDuruf853/8NzcB29gHW6cSCtcSlW99NowC+Woe29Us="
+    }
+}
