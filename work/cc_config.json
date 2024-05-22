@@ -1,0 +1,19 @@
+{
+    "build_file": null,
+    "build_targets": [
+        "@cc_config//logger"
+    ],
+    "compatibility_level": "2",
+    "deps": [],
+    "module_dot_bazel": "work//cc_config/MODULE.bazel",
+    "name": "cc_config",
+    "patch_strip": 0,
+    "patches": [],
+    "presubmit_yml": null,
+    "strip_prefix": "cc_config-main",
+    "test_module_build_targets": [],
+    "test_module_path": null,
+    "test_module_test_targets": [],
+    "url": "https://github.com/portal-co/cc_config/archive/refs/heads/main.zip",
+    "version": "2.0.0"
+}
