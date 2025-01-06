@@ -1,0 +1,19 @@
+{
+    "build_file": null,
+    "build_targets": [
+        "@cloudtools//:toolchain"
+    ],
+    "compatibility_level": "0",
+    "deps": [],
+    "module_dot_bazel": "work/cloudtools/MODULE.bazel",
+    "name": "cloudtools",
+    "patch_strip": 0,
+    "patches": [],
+    "presubmit_yml": null,
+    "strip_prefix": "bazel-toolchains-cloudabi-master",
+    "test_module_build_targets": [],
+    "test_module_path": null,
+    "test_module_test_targets": [],
+    "url": "https://github.com/portal-co/bazel-toolchains-cloudabi/archive/refs/heads/master.zip",
+    "version": "0.0.1"
+}

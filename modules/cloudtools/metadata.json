@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/portal-co/bazel-toolchains-cloudabi",
+    "maintainers": [],
+    "repository": [
+        "github:portal-co/bazel-toolchains-cloudabi"
+    ],
+    "versions": [
+        "0.0.1"
+    ],
+    "yanked_versions": {}
+}

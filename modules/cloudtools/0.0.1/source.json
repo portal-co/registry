@@ -1,0 +1,5 @@
+{
+    "url": "https://github.com/portal-co/bazel-toolchains-cloudabi/archive/refs/heads/master.zip",
+    "integrity": "sha256-FbYRETNFhkSgQLCdkOM2R7mwOxo58C9Fzw5BvIN4eRA=",
+    "strip_prefix": "bazel-toolchains-cloudabi-master"
+}
